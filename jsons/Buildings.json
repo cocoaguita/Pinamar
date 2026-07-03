@@ -4,6 +4,6 @@
     "uniqueTo": "Imperio Pinamarense",
     "cost": 60,
     "gold": 2,
-    "uniques": ["Provides [1] Happiness"]
+    "uniques": ["[+1] Happiness"]
   }
 ]
