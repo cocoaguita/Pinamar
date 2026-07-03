@@ -18,7 +18,7 @@
     "innerColor":[0,0,0],
     "iconName": "crown",
     "unique": ["[%50] Culture from [All sources]"],
-    "uniqueUnits": ["Fragata Pinamarense"],
-    "uniqueBuildings": ["Parador de Bunge"]
+    "uniques": ["Fragata Pinamarense"],
+    "uniques": ["Parador de Bunge"]
   }
 ]
