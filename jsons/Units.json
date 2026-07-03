@@ -1,16 +1,10 @@
 [
   {
     "name": "Fragata Pinamarense",
-    "unitType": "Ranged Naval",
+    "unitType": "Naval Melee",
     "uniqueTo": "Imperio Pinamarense",
-    "replaces": "Frigate",
-    "movement": 6,
-    "strength": 30,
-    "rangedStrength": 35,
-    "range": 3,
-    "cost": 120,
-    "requiredResource": "Iron",
-    "requiredTech": "Navigation",
-    "uniques": ["Great General Combat Bonus"]
+    "movement": 5,
+    "strength": 25,
+    "cost": 100
   }
 ]
