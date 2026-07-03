@@ -20,29 +20,5 @@
     "unique": ["[%50] Culture from [All sources]"],
     "uniqueUnits": ["Fragata Pinamarense"],
     "uniqueBuildings": ["Parador de Bunge"]
-  },
-  {
-    "name": "Fragata Pinamarense",
-    "unitType": "Ranged Naval",
-    "uniqueTo": "Imperio Pinamarense",
-    "replaces": "Frigate",
-    "movement": 6,
-    "strength": 30,
-    "rangedStrength": 35,
-    "range": 3,
-    "cost": 120,
-    "requiredResource": "Iron",
-    "requiredTech": "Navigation",
-    "uniques": ["Great General Combat Bonus"]
-  },
-  {
-    "name": "Parador de Bunge",
-    "uniqueTo": "Imperio Pinamarense",
-    "replaces": "Market",
-    "cost": 100,
-    "maintenance": 0,
-    "requiredTech": "Currency",
-    "uniques": ["+1 Culture"],
-    "hurryCostModifier": 25
   }
 ]
