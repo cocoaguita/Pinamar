@@ -14,11 +14,9 @@
       "Mordisco",
       "Simbad el Marino"
     ],
-    "outerColor":[0,255,0],
-    "innerColor":[0,0,0],
+    "outerColor": [0, 255, 0],
+    "innerColor": [0, 0, 0],
     "iconName": "crown",
-    "unique": ["[%50] Culture from [All sources]"],
-    "uniques": ["Fragata Pinamarense"],
-    "uniques": ["Parador de Bunge"]
+    "uniques": ["[+50]% Culture from [All sources]"]
   }
 ]
