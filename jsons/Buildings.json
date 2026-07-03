@@ -2,11 +2,8 @@
   {
     "name": "Parador de Bunge",
     "uniqueTo": "Imperio Pinamarense",
-    "replaces": "Market",
-    "cost": 100,
-    "maintenance": 0,
-    "requiredTech": "Currency",
-    "uniques": ["+1 Culture"],
-    "hurryCostModifier": 25
+    "cost": 60,
+    "gold": 2,
+    "uniques": ["Provides [1] Happiness"]
   }
 ]
