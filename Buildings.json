@@ -1,0 +1,12 @@
+[
+  {
+    "name": "Parador de Bunge",
+    "uniqueTo": "Imperio Pinamarense",
+    "replaces": "Market",
+    "cost": 100,
+    "maintenance": 0,
+    "requiredTech": "Currency",
+    "uniques": ["[%30] Gold from [All sources]", "+1 Culture", "[+1 Gold] from [Oasis] tiles"],
+    "hurryCostModifier": 25
+  }
+]
