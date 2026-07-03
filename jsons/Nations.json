@@ -14,8 +14,8 @@
       "Mordisco",
       "Simbad el Marino"
     ],
-    "outerColor":,
-    "innerColor":,
+    "outerColor": [0, 0, 0],
+    "innerColor": [0, 128, 0],
     "iconName": "crown",
     "unique": ["[%50] Culture from [All sources]"],
     "uniqueUnits": ["Fragata Pinamarense"],
